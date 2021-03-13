@@ -1,5 +1,5 @@
 {
-  "name": "Vocabulary Highlighter",
+  "name": "Vocabulary Highlighter (Boyan Forked)",
   "version": "3.0",
   "description": "Highlight high frequency GRE vocabulary as you browse the web.",
   "permissions": ["activeTab", "storage"],
